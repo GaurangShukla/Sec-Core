@@ -8,10 +8,10 @@ Sec-Core or Security-Core is a platform which provides multiple features which a
 ## Features
 ### Application Deployment platform
 - We provide a super PaaS (Platform as a Service) for the users to deploy their web apps, apis and databases. Deploy your apps with ssl in a contanerized environment and forget about complex hosting plans. We got you covered with
-1- Github Integration
-2- Ci/Cd
-3- Custom Domain
-4- Supports all of the famous languages (Nodejs, React, Scala, Golang, python, ruby, php, java and more..)
+1. Github Integration
+2. Ci/Cd
+ 3. Custom Domain
+ 4.  Supports all of the famous languages (Nodejs, React, Scala, Golang, python, ruby, php, java and more..)
 
 ### Encrypted Authentication
 - We provide encrypted authentication which enables buisnesses to share only required information with third parties if needed.
