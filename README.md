@@ -48,9 +48,9 @@ SEC-CORE is a Stack Father we used some of the best available tech to make this 
 
 - [ ReactJS ]  - Framework we fell in love with!
 - [GOlang] - Something we felt was good with scaling and is good for developing infrastructure like networked servers.
-- [Python] -Why not we thought untill it met all our hopes (as always).
+- [Python] -Why not, we thought untill it met all our hopes (as always).
 - [NextJS] - New member of the family , breaking traditions and going places.
-- [node.js] - Eldest member of the family, manging daily day matters. 
+- [node.js] - Eldest member of the family, manging daily matters. 
 - [MongoDB] - Playful guy keeping our stuff safe and up and running without asking much. 
 - [MySQL] - Can't leave the OG.
 - [Redis] - Fastest boiii.
