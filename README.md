@@ -6,6 +6,12 @@ Sec-Core or Security-Core is a platform which provides multiple features which a
 
 
 ## Features
+### Application Deployment platform
+- We provide a super PaaS (Platform as a Service) for the users to deploy their web apps, apis and databases. Deploy your apps with ssl in a contanerized environment and forget about complex hosting plans. We got you covered with
+1- Github Integration
+2- Ci/Cd
+3- Custom Domain
+4- Supports all of the famous languages (Nodejs, React, Scala, Golang, python, ruby, php, java and more..)
 
 ### Encrypted Authentication
 - We provide encrypted authentication which enables buisnesses to share only required information with third parties if needed.
@@ -48,12 +54,15 @@ SEC-CORE is a Stack Father we used some of the best available tech to make this 
 
 - [ ReactJS ]  - Framework we fell in love with!
 - [GOlang] - Something we felt was good with scaling and is good for developing infrastructure like networked servers.
-- [Python] -Why not, we thought untill it met all our hopes (as always).
+- [Python] -Why not we thought untill it met all our hopes (as always).
 - [NextJS] - New member of the family , breaking traditions and going places.
-- [node.js] - Eldest member of the family, manging daily matters. 
+- [node.js] - Eldest member of the family, manging daily day matters. 
 - [MongoDB] - Playful guy keeping our stuff safe and up and running without asking much. 
 - [MySQL] - Can't leave the OG.
 - [Redis] - Fastest boiii.
 - [Docker] - Our friend Neo from Matrix got us up and running with Docker .
 - [Kubernetes] - "One does not simply use kubernetes" Boromir
 but we did.
+
+
+
