@@ -1,4 +1,4 @@
-# SECURITY-CORE
+# SECURITY-CORE 👮‍♂️
 ## Multi-tenent cyber security SaaS platform for small and big buisnesses to maintain their online services without worrying about safety and security of their products. 
 
 
@@ -6,33 +6,33 @@ Sec-Core or Security-Core is a platform which provides multiple features which a
 
 
 ## Features
-### Application Deployment platform
+### Application Deployment platform ⚒
 - We provide a super PaaS (Platform as a Service) for the users to deploy their web apps, apis and databases. Deploy your apps with ssl in a contanerized environment and forget about complex hosting plans. We got you covered with
 1. Github Integration
 2. Ci/Cd
  3. Custom Domain
  4.  Supports all of the famous languages (Nodejs, React, Scala, Golang, python, ruby, php, java and more..)
 
-### Encrypted Authentication
+### Encrypted Authentication 🔑
 - We provide encrypted authentication which enables buisnesses to share only required information with third parties if needed.
-### Managed encrypted databases
+### Managed encrypted databases 📦
 - We provide users to create databases (mongodb,redis,PostgreSQL,mysql,) which are also encrypted, users can utilise these databases using URIs and auth info provided on the dashboard .
-### Network Monitoring 
+### Network Monitoring 🗜
 - Users can get all the system logs, API requests, and server status in real-time on your dashboard
-### Server Monitoring
+### Server Monitoring 👀
 - Users can get realtime status of RAM, cpu, bandwidth and storage usage details.
-### User Activity Report 
+### User Activity Report 📃
 Get real-time data of the user activity with our smart analytics and get ahead of your customers and give them an enhanced user experience.
-### Identity and access management 
+### Identity and access management 🛂
 - We provide IAM within our auth service to make your work easier. You can decide who can access what part of your website.
-### Network scanning
+### Network scanning 🔍
 Users can use network scanning to get info about
 - Host discovery
 - Port scanning
 - Version detection
 - TCP/IP stack fingerprinting 
 - DNS queries and subdomain search
-### Web Analytics
+### Web Analytics 🌐
 We provide users to know everything about their website and the customers like - 
 - Views, Visitors, Bounce rate, Average Visit time
 - Pages
@@ -48,7 +48,7 @@ We provide users to know everything about their website and the customers like -
 
 
 
-## STACK
+## STACK 👩‍💻
 
 SEC-CORE is a Stack Father we used some of the best available tech to make this beast
 
