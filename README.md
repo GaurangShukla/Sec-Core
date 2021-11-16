@@ -65,4 +65,9 @@ SEC-CORE is a Stack Father we used some of the best available tech to make this 
 but we did.
 
 
+# SCREENSHOTS
+![alt text](https://github.com/[GaurangShukla]/[Sec-Core]/blob/[main]/image1.jpg?raw=true)
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image2.jpg?raw=true)
+
 
