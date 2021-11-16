@@ -66,8 +66,31 @@ but we did.
 
 
 # SCREENSHOTS
-![alt text](https://github.com/[GaurangShukla]/[Sec-Core]/blob/[main]/image1.jpg?raw=true)
+## This is the Sec-Core Landing Page 
+![alt dvjdvndjvndjndjnj](https://github.com/GaurangShukla/Sec-Core/blob/main/imagedash.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image2.jpg?raw=true)
+
+## Create account
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/signup.png?raw=true)
+
+## Golang Api in action
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/auth.png?raw=true)
+## Sec-Core Dashboard
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image2.png?raw=true)
+## Uptime status expanded view
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image1.png?raw=true)
+## Analytics Dashoard 
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image3.png?raw=true)
+## Realtime Analytics Dashboard
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image5.png?raw=true)
+## Detailed Info of analytics
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image6.png?raw=true)
+## Add your website
+![alt text](https://github.com/GaurangShukla/Sec-Core/blob/main/image4.png?raw=true)
+
+
+
+
+
 
 
