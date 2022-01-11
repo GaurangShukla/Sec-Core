@@ -66,7 +66,7 @@ but we did.
 
 
 # SCREENSHOTS
-## This is the Sec-Core Landing Page 
+## This is the Sec-Core Landing Page. 
 ![alt dvjdvndjvndjndjnj](https://github.com/GaurangShukla/Sec-Core/blob/main/imagedash.png?raw=true)
 
 
